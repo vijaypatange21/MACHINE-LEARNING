@@ -10,7 +10,8 @@ The goal of this repo is to serve as a **learning hub** for both beginners and p
 
 Each folder represents an individual project, complete with its own dataset and implementation:
 
-- **Credit-Card-Fraud-Detection** 💳 – Detecting fraudulent credit card transactions  
+- **Credit-Card-Fraud-Detection** 💳 – Detecting fraudulent credit card transactions
+- **E-commerce Spending Analysis** - yearly amount spent by e-commerce customers using Linear Regression 
 
 ---
 
